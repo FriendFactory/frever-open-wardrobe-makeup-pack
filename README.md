@@ -1,31 +1,30 @@
-# Frever Animation Asset Pack
+# Frever Avatar Wardrobe Asset Pack
 
 Frever is a mobile avatar and content creation platform designed for expressive storytelling through custom 3D characters. Users could create avatars, style outfits, generate short-form video content, and engage in social interactions including chat and user feeds. Videos created with Frever were shared externally and accumulated over **10+ billion views** across platforms.
 
-This open source release contains a curated collection of animation assets designed for use within the **Frever App**.
+This open source release contains a curated collection of contains assets for the **Frever App’s avatar wardrobe system**, including customizable wardrobe elements and makeup features.
 
-The assets include various character movements such as **emotes** **dances**, and other expressive actions. These are provided as `.anim` files and, in some cases, as `.fbx` files, allowing easy integration into 3D scenes and runtime animation systems.
+The project provides a mix of asset types such as:
 
-These assets are primarily used to animate avatars, enhance storytelling, and create dynamic character-driven content within Frever's ecosystem.
+- **UMA wardrobe files** for character customization 
+- **High-resolution textures** (e.g., lipstick, eyeshadow) 
+- **.fbx files** in some cases for mesh-based wardrobe assets
+
+These assets are designed to enhance avatar expression and identity.
 
 
 ---
 
 
 ### Art Overview
-- [3D Artist Pipeline guide]
-(INSERT LINK TO GITHUB REPO HERE)
+- [3D Artist Pipeline guide](INSERT LINK TO GITHUB REPO HERE)
 
 ### Animation Uploaders
 
-- [frever-open-animation-pack-1]
-(https://github.com/FriendFactory/frever-open-animation-pack-1)
-- [frever-open-animation-pack-2]
-(https://github.com/FriendFactory/frever-open-animation-pack-2)
-- [frever-open-animation-pack-3]
-(https://github.com/FriendFactory/frever-open-animation-pack-3)
-- [frever-open-animation-pack-4]
-(https://github.com/FriendFactory/frever-open-animation-pack-4)
+- [frever-open-animation-pack-1](https://github.com/FriendFactory/frever-open-animation-pack-1)
+- [frever-open-animation-pack-2](https://github.com/FriendFactory/frever-open-animation-pack-2)
+- [frever-open-animation-pack-3](https://github.com/FriendFactory/frever-open-animation-pack-3)
+- [frever-open-animation-pack-4](https://github.com/FriendFactory/frever-open-animation-pack-4)
 
 
 ---
@@ -41,10 +40,10 @@ The following Frever packages are used in this project. The full package names a
 
 | Package Name                        | Version   | Source    |
 |-------------------------------------|-----------|-----------|
-| [com.friendfactory.assetmanager](https://github.com/FriendFactory/frever-open-asset-manager-tool)      | 1.7.11    | GitHub    |
-| [com.friendfactory.bridge](https://github.com/FriendFactory/frever-open-bridge)            | 1.8.162   | GitHub    |
+| [com.friendfactory.assetmanager](https://github.com/FriendFactory/frever-open-asset-manager-tool)      | 1.7.9     | GitHub    |
+| [com.friendfactory.bridge](https://github.com/FriendFactory/frever-open-bridge)            | 1.8.138   | GitHub    |
 | [com.friendfactory.sharedscripts](https://github.com/FriendFactory/frever-open-shared-scripts)     | 1.0.21    | GitHub    |
-| [com.friendfactory.character_editor](INSERT LINK TO GITHUB REPO HERE)  | 1.0.4     | GitHub    |
+| [com.friendfactory.character_editor](INSERT LINK TO GITHUB REPO HERE)  | 1.0.9     | GitHub    |
 | [com.friendfactory.globalumaassets](INSERT LINK TO GITHUB REPO HERE)   | Git       | GitHub    |
 
 ### Unity Packages (via Dependencies)
