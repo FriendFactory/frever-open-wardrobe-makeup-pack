@@ -52,11 +52,11 @@ The following Frever packages are used in this project. The full package names a
 
 | Package Name                        | Version   | Source    |
 |-------------------------------------|-----------|-----------|
-| [com.friendfactory.assetmanager](https://github.com/FriendFactory/frever-open-asset-manager-tool)      | 1.7.9     | GitHub    |
-| [com.friendfactory.bridge](https://github.com/FriendFactory/frever-open-bridge)            | 1.8.138   | GitHub    |
-| [com.friendfactory.sharedscripts](https://github.com/FriendFactory/frever-open-shared-scripts)     | 1.0.21    | GitHub    |
-| [com.friendfactory.character_editor](https://github.com/FriendFactory/frever-open-wardrobe-preview-tool)  | 1.0.9     | GitHub    |
-| [com.friendfactory.globalumaassets](https://github.com/FriendFactory/frever-open-global-uma-assets)   | Git       | GitHub    |
+| [com.<yourcompanyname>,assetmanager](https://github.com/FriendFactory/frever-open-asset-manager-tool)      | 1.7.9     | GitHub    |
+| [com.<yourcompanyname>.bridge](https://github.com/FriendFactory/frever-open-bridge)            | 1.8.138   | GitHub    |
+| [com.<yourcompanyname>.sharedscripts](https://github.com/FriendFactory/frever-open-shared-scripts)     | 1.0.21    | GitHub    |
+| [com.<yourcompanyname>.character_editor](https://github.com/FriendFactory/frever-open-wardrobe-preview-tool)  | 1.0.9     | GitHub    |
+| [com.<yourcompanyname>.globalumaassets](https://github.com/FriendFactory/frever-open-global-uma-assets)   | Git       | GitHub    |
 
 ### Unity Packages (via Dependencies)
 
