@@ -1,6 +1,6 @@
 # Frever Avatar Wardrobe Asset Pack
 
-Frever is a mobile avatar and content creation platform designed for expressive storytelling through custom 3D characters. Users could create avatars, style outfits, generate short-form video content, and engage in social interactions including chat and user feeds. Videos created with Frever were shared externally and accumulated over **10+ billion views** across platforms.
+Frever is a mobile avatar and content creation platform designed for expressive storytelling through custom 3D characters. Users can create avatars, style outfits, generate short-form video content, and engage in social interactions including chat and user feeds. Videos created with Frever were shared externally and accumulated over **10+ billion views** across platforms.
 
 This open source release contains a curated collection of assets for the **Frever App’s avatar wardrobe system**, including customizable wardrobe elements and makeup features.
 
@@ -17,14 +17,26 @@ These assets are designed to enhance avatar expression and identity.
 
 
 ### Art Overview
-- [3D Artist Pipeline guide](INSERT LINK TO GITHUB REPO HERE)
 
-### Animation Uploaders
+- [frever-open-wardrobe-essential](https://github.com/FriendFactory/frever-open-wardrobe-essential)
 
-- [frever-open-animation-pack-1](https://github.com/FriendFactory/frever-open-animation-pack-1)
-- [frever-open-animation-pack-2](https://github.com/FriendFactory/frever-open-animation-pack-2)
-- [frever-open-animation-pack-3](https://github.com/FriendFactory/frever-open-animation-pack-3)
-- [frever-open-animation-pack-4](https://github.com/FriendFactory/frever-open-animation-pack-4)
+### Wardrobe Uploaders
+
+- [frever-open-wardrobe-socks-pack](https://github.com/FriendFactory/frever-open-wardrobe-socks-pack)
+- [frever-open-wardrobe-skirt-pack](https://github.com/FriendFactory/frever-open-wardrobe-skirt-pack)
+- [frever-open-wardrobe-shoes-pack-2](https://github.com/FriendFactory/frever-open-wardrobe-shoes-pack-2)
+- [frever-open-wardrobe-shoes-pack-1](https://github.com/FriendFactory/frever-open-wardrobe-shoes-pack-1)
+- [frever-open-wardrobe-accessory-pack-2](https://github.com/FriendFactory/frever-open-wardrobe-accessory-pack-2)
+- [frever-open-wardrobe-accessory-pack-1](https://github.com/FriendFactory/frever-open-wardrobe-accessory-pack-1)
+- [frever-open-wardrobe-body-face-pack](https://github.com/FriendFactory/frever-open-wardrobe-body-face-pack)
+- [frever-open-wardrobe-glasses-pack](https://github.com/FriendFactory/frever-open-wardrobe-glasses-pack)
+- [frever-open-wardrobe-haircut-pack](https://github.com/FriendFactory/frever-open-wardrobe-haircut-pack)
+- [frever-open-wardrobe-headwear-pack](https://github.com/FriendFactory/frever-open-wardrobe-headwear-pack)
+- [frever-open-wardrobe-jacket-pack](https://github.com/FriendFactory/frever-open-wardrobe-jacket-pack)
+- [frever-open-wardrobe-jewelry-pack](https://github.com/FriendFactory/frever-open-wardrobe-jewelry-pack)
+- [frever-open-wardrobe-outfit-pack](https://github.com/FriendFactory/frever-open-wardrobe-outfit-pack)
+- [frever-open-wardrobe-pants-pack](https://github.com/FriendFactory/frever-open-wardrobe-pants-pack)
+- [frever-open-wardrobe-makeup-pack](https://github.com/FriendFactory/frever-open-wardrobe-makeup-pack)
 
 
 ---
@@ -43,8 +55,8 @@ The following Frever packages are used in this project. The full package names a
 | [com.friendfactory.assetmanager](https://github.com/FriendFactory/frever-open-asset-manager-tool)      | 1.7.9     | GitHub    |
 | [com.friendfactory.bridge](https://github.com/FriendFactory/frever-open-bridge)            | 1.8.138   | GitHub    |
 | [com.friendfactory.sharedscripts](https://github.com/FriendFactory/frever-open-shared-scripts)     | 1.0.21    | GitHub    |
-| [com.friendfactory.character_editor](INSERT LINK TO GITHUB REPO HERE)  | 1.0.9     | GitHub    |
-| [com.friendfactory.globalumaassets](INSERT LINK TO GITHUB REPO HERE)   | Git       | GitHub    |
+| [com.friendfactory.character_editor](https://github.com/FriendFactory/frever-open-wardrobe-preview-tool)  | 1.0.9     | GitHub    |
+| [com.friendfactory.globalumaassets](https://github.com/FriendFactory/frever-open-global-uma-assets)   | Git       | GitHub    |
 
 ### Unity Packages (via Dependencies)
 
