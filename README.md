@@ -80,7 +80,7 @@ Please note that the Software may include references to “Frever” and/or “I
 
 This repository is provided as-is, with no active support or maintenance. For inquiries related to the open source project, please contact:
 
-**📧 hello@frever.com**
+**📧 admin@frever.com**
 
 ---
 
